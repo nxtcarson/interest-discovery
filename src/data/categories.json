@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Arts & Creativity",
+    "interests": [
+      "Drawing", "Painting", "Sculpture", "Photography", "Digital Art",
+      "Animation", "Graphic Design", "Pottery", "Calligraphy", "Crafts",
+      "Woodworking", "Jewelry Making", "Fashion Design", "Interior Design"
+    ],
+    "subCategories": [
+      {
+        "name": "Digital Art",
+        "interests": [
+          "Digital Painting", "3D Modeling", "Character Design", "Concept Art",
+          "Pixel Art", "Vector Art", "UI Design", "Motion Graphics",
+          "Digital Sculpting", "Photo Manipulation"
+        ]
+      },
+      {
+        "name": "Traditional Art",
+        "interests": [
+          "Watercolor", "Oil Painting", "Charcoal Drawing", "Sketching",
+          "Printmaking", "Sculpture", "Mixed Media", "Collage"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "text": "Do you prefer digital or traditional art?",
+        "relatedInterests": ["Digital Art", "Traditional Art"]
+      },
+      {
+        "text": "What inspires your creative process the most?",
+        "relatedInterests": ["Drawing", "Painting", "Digital Art"]
+      },
+      {
+        "text": "Do you create art for yourself or others?",
+        "relatedInterests": ["Art", "Creative Expression"]
+      },
+      {
+        "text": "How interested are you in learning new art techniques?",
+        "relatedInterests": ["Drawing", "Painting", "Digital Art", "Animation"]
+      },
+      {
+        "text": "How recently have you created something artistic?",
+        "relatedInterests": ["Drawing", "Digital Art", "Crafts"]
+      }
+    ]
+  },
+  {
+    "name": "Technology",
+    "interests": [
+      "Programming", "Web Development", "Mobile Apps", "Artificial Intelligence",
+      "Robotics", "Virtual Reality", "3D Printing", "Cybersecurity",
+      "Data Science", "Game Development", "Electronics", "Home Automation"
+    ],
+    "questions": [
+      {
+        "text": "Do you prefer frontend or backend development?",
+        "relatedInterests": ["Web Development", "Programming"]
+      },
+      {
+        "text": "How recently have you learned a new programming language?",
+        "relatedInterests": ["Programming", "Web Development"]
+      },
+      {
+        "text": "How interested are you in artificial intelligence?",
+        "relatedInterests": ["Artificial Intelligence", "Data Science"]
+      },
+      {
+        "text": "How do you enjoy solving technical problems?",
+        "relatedInterests": ["Programming", "Electronics", "Robotics"]
+      },
+      {
+        "text": "When was the last time you built something with code?",
+        "relatedInterests": ["Programming", "Web Development", "Mobile Apps"]
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "interests": [
+      "Astronomy", "Physics", "Chemistry", "Biology", "Geology",
+      "Environmental Science", "Meteorology", "Neuroscience",
+      "Quantum Mechanics", "Marine Biology", "Genetics", "Paleontology"
+    ]
+  },
+  {
+    "name": "Gaming",
+    "interests": [
+      "Video Games", "Board Games", "Card Games", "Role-Playing Games",
+      "Strategy Games", "Puzzle Games", "Game Design", "Esports",
+      "Virtual Worlds", "Game Streaming", "Game Modding", "Retro Gaming"
+    ],
+    "subCategories": [
+      {
+        "name": "Indie Games",
+        "interests": [
+          "Stardew Valley", "Hollow Knight", "Undertale", "Celeste",
+          "Hades", "Minecraft", "Terraria", "Don't Starve",
+          "Binding of Isaac", "Cuphead", "Inside", "Braid",
+          "FTL: Faster Than Light", "Bastion", "Ori and the Blind Forest",
+          "Rimworld", "Factorio", "Subnautica", "Dead Cells",
+          "Enter the Gungeon", "Slay the Spire", "Outer Wilds",
+          "Disco Elysium", "Valheim", "Among Us"
+        ]
+      },
+      {
+        "name": "Game Development",
+        "interests": [
+          "Unity Engine", "Unreal Engine", "Godot", "Pixel Art",
+          "Game Audio", "Level Design", "Game Writing", "Character Design",
+          "Game Programming", "Game Testing", "Game Marketing"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "text": "Do you prefer single-player or multiplayer games?",
+        "relatedInterests": ["Video Games", "Esports", "Role-Playing Games"]
+      },
+      {
+        "text": "Do you enjoy games more for their story or gameplay?",
+        "relatedInterests": ["Role-Playing Games", "Indie Games"]
+      },
+      {
+        "text": "How interested are you in indie games?",
+        "relatedInterests": ["Indie Games", "Game Design"]
+      },
+      {
+        "text": "When was the last time you tried a new game genre?",
+        "relatedInterests": ["Video Games", "Strategy Games", "Puzzle Games"]
+      },
+      {
+        "text": "How do you enjoy learning game mechanics?",
+        "relatedInterests": ["Game Design", "Strategy Games"]
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "interests": [
+      "Playing Instruments", "Singing", "Music Production", "DJing",
+      "Music Theory", "Sound Design", "Music History", "Concert Going",
+      "Record Collecting", "Music Composition", "Music Analysis"
+    ]
+  },
+  {
+    "name": "Literature",
+    "interests": [
+      "Reading", "Writing", "Poetry", "Creative Writing", "Book Collecting",
+      "Literary Analysis", "Storytelling", "World Building", "Fan Fiction",
+      "Script Writing", "Literary History", "Book Clubs"
+    ]
+  },
+  {
+    "name": "Sports & Fitness",
+    "interests": [
+      "Running", "Swimming", "Cycling", "Yoga", "Martial Arts",
+      "Rock Climbing", "Hiking", "Team Sports", "Weight Training",
+      "Dance", "Parkour", "Sports Analytics"
+    ]
+  },
+  {
+    "name": "Collections",
+    "interests": [
+      "Stamps", "Coins", "Action Figures", "Trading Cards", "Comics",
+      "Antiques", "Vinyl Records", "Model Trains", "Memorabilia",
+      "Vintage Items", "Art Prints", "Historical Artifacts"
+    ]
+  },
+  {
+    "name": "Nature & Outdoors",
+    "interests": [
+      "Gardening", "Bird Watching", "Camping", "Fishing", "Photography",
+      "Star Gazing", "Rock Collecting", "Foraging", "Wildlife Observation",
+      "Botany", "Weather Watching", "Nature Conservation"
+    ]
+  },
+  {
+    "name": "Media & Entertainment",
+    "interests": [
+      "Movies", "TV Shows", "Anime", "Web Series", "Documentaries",
+      "Film Analysis", "Movie Collecting", "Film Making", "TV Analysis",
+      "Animation", "Film Scores", "Film Photography"
+    ],
+    "subCategories": [
+      {
+        "name": "Popular Movies",
+        "interests": [
+          "The Shawshank Redemption", "The Godfather", "Pulp Fiction",
+          "The Dark Knight", "Forrest Gump", "Inception", "The Matrix",
+          "Goodfellas", "The Lord of the Rings", "Star Wars",
+          "Jurassic Park", "The Avengers", "Titanic", "Avatar",
+          "The Lion King", "Back to the Future", "Indiana Jones",
+          "The Silence of the Lambs", "Gladiator", "The Departed",
+          "Saving Private Ryan", "Interstellar", "The Green Mile",
+          "The Terminator", "The Princess Bride", "Alien",
+          "Jaws", "E.T.", "The Breakfast Club", "Die Hard",
+          "The Big Lebowski", "Ghostbusters", "The Exorcist",
+          "Apocalypse Now", "Schindler's List", "Good Will Hunting",
+          "The Sixth Sense", "The Usual Suspects", "Reservoir Dogs",
+          "Seven", "The Shining", "Eternal Sunshine of the Spotless Mind",
+          "No Country for Old Men", "The Social Network", "Whiplash",
+          "The Grand Budapest Hotel", "La La Land", "Get Out",
+          "Parasite", "Everything Everywhere All at Once"
+        ]
+      },
+      {
+        "name": "Cult & Psychological Movies",
+        "interests": [
+          "Fight Club", "Donnie Darko", "Taxi Driver", "Memento",
+          "A Clockwork Orange", "Mulholland Drive", "Blade Runner",
+          "American Psycho", "The Machinist", "Requiem for a Dream",
+          "Pi", "Brazil", "Eraserhead", "Oldboy", "Perfect Blue",
+          "Synecdoche New York", "Being John Malkovich", "Primer",
+          "Enemy", "The Lighthouse", "Videodrome", "Paprika",
+          "Neon Genesis Evangelion: End of Evangelion", "Jacob's Ladder"
+        ]
+      },
+      {
+        "name": "Anime Series",
+        "interests": [
+          "Neon Genesis Evangelion", "Serial Experiments Lain", "Ghost in the Shell",
+          "Death Note", "Steins;Gate", "Monster", "Psycho-Pass",
+          "Cowboy Bebop", "FLCL", "Paranoia Agent", "Ergo Proxy",
+          "Welcome to the NHK", "Texhnolyze", "Perfect Blue",
+          "Madoka Magica", "The Tatami Galaxy", "Haibane Renmei"
+        ]
+      },
+      {
+        "name": "Complex TV Shows",
+        "interests": [
+          "Twin Peaks", "The Wire", "True Detective", "Black Mirror",
+          "Mr. Robot", "Westworld", "Dark", "The Leftovers",
+          "Fargo", "Mindhunter", "The Twilight Zone", "The X-Files",
+          "Better Call Saul", "Breaking Bad", "The OA", "Legion",
+          "Severance", "Inside No. 9", "Utopia (UK)"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "text": "How recently have you analyzed a movie's hidden meanings?",
+        "relatedInterests": ["Film Analysis", "Complex TV Shows"]
+      },
+      {
+        "text": "Do you prefer movies that explain everything or leave things open?",
+        "relatedInterests": ["Cult & Psychological Movies", "Complex TV Shows"]
+      },
+      {
+        "text": "How interested are you in psychological thrillers?",
+        "relatedInterests": ["Cult & Psychological Movies", "The Machinist", "Memento"]
+      },
+      {
+        "text": "How do you enjoy analyzing hidden meanings in movies and shows?",
+        "relatedInterests": ["Film Analysis", "Complex TV Shows", "Cult & Psychological Movies"]
+      },
+      {
+        "text": "When was the last time a movie made you think deeply about life?",
+        "relatedInterests": ["Film Analysis", "Cult & Psychological Movies"]
+      }
+    ]
+  }
+] 
